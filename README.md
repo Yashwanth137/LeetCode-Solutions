@@ -11,7 +11,8 @@ The goal is to solve as many problems as possible in Python, Java, and C++<br>
   Fork the repository and clone it locally.<br>
  </p>
   ```bash
-  git clone https://github.com/your-username/LeetCode-Solutions.gitcd LeetCode-Solutions
+  git clone https://github.com/your-username/LeetCode-Solutions.git
+  cd LeetCode-Solutions
 
 <p>
   Create a new branch for your Solution file.<br>
