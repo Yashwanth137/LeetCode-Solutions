@@ -4,7 +4,7 @@ This repository contains solutions for LeetCode problems in Python, Java, and C+
 
 ## How to Contribute
 
-Thank you for considering contributing to our project! Please follow these guidelines to contribute.
+Thank you for considering contributing to our project! Please follow these guidelines to contribute. For detailed instructions on how to contribute, follow this [link](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project).
 
 ## Getting Started
 
