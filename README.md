@@ -1,5 +1,5 @@
 <h2>LeetCode Solutions</h2>
-<h6>This Repository contains solutions for Leetcode problems in PYTHON, JAVA</h6>
+<p>This Repository contains solutions for Leetcode problems in PYTHON, JAVA</p>
 <h6>The goal is to solve as many problems as possible in Python, Java, and C++</h6>
 <h6> If you are interested, You can contribute to questions that haven't been uploaded.</h6>
 
