@@ -9,7 +9,7 @@ The goal is to solve as many problems as possible in Python, Java, and C++<br>
 <h3>Getting Started</h3>
 <p>
   Fork the repository and clone it locally.<br>
-  ```bash
+  ```markdown
   git clone https://github.com/your-username/LeetCode-Solutions.gitcd LeetCode-Solutions
 <p>
 <p>
