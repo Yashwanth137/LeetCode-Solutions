@@ -3,12 +3,13 @@
 The goal is to solve as many problems as possible in Python, Java, and C++<br>
  If you are interested, You can contribute to questions that haven't been uploaded.<p>
 
-<h4>How to Contribute</h4>
+<h3>How to Contribute</h3>
 <p>Thank you for considering contributing to our project! Please follow these guidelines to contribute.<p>
 
-<h5>Getting Started</h5>
+<h3>Getting Started</h3>
 <p>
   Fork the repository and clone it locally.<br>
+  ```bash
   git clone https://github.com/your-username/LeetCode-Solutions.gitcd LeetCode-Solutions
 <p>
 <p>
@@ -16,7 +17,7 @@ The goal is to solve as many problems as possible in Python, Java, and C++<br>
   Make your changes and test thoroughly.
 <p>
 
-<h5>Submitting Changes</h5>
+<h3>Submitting Changes</h3>
 <p>Push your changes to your fork.<br>
   Submit a pull request (PR) to the main branch of the main repository.
 <p>
