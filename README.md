@@ -11,5 +11,5 @@ Thank you for considering contributing to our project! Please follow these guide
 Fork the repository and clone it locally.
 
 ```bash
-git clone https://github.com/your-username/LeetCode-Solutions.git
+git clone https://github.com/Yashwanth137/LeetCode-Solutions.git
 cd LeetCode-Solutions
