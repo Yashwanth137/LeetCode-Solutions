@@ -2,7 +2,7 @@
 ```python
 matrix = [[0 for _ in range(n)] for _ in range(m)]
 ```
-- A 2D matrix of size \(m \times n\) is created, filled with `0`s.  
+- A 2D matrix of size \(m x n\) is created, filled with `0`s.  
 - This matrix represents the grid where:
   - `0` indicates unguarded cells.
   - `'G'` will indicate guard positions.
