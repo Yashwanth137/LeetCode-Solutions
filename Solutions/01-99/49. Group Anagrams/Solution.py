@@ -1,10 +1,12 @@
-class Solution(object):
-    def groupAnagrams(self, strs):
-        d={}
-        for i in strs:
-            sw=''.join(sorted(i))
-            if sw not in d:
-                d[sw]=[i]
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        res = {}
+
+        for s in strs:
+            key = ''.join(sorted(s))
+            if key not in res:
+                res[key] = [s]
             else:
-                d[sw].append(i)
-        return list(d.values())
+                res[key].append(s)
+        
+        return list(res.values())
